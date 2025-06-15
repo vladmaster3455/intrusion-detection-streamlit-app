@@ -48,7 +48,7 @@ Pour exécuter cette application localement dans un conteneur Docker :
 
 1.  **Clonez ce dépôt ou téléchargez les fichiers :**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/intrusion-detection-streamlit-app.git](https://github.com/vladmaster3455/intrusion-detection-streamlit-app.git)
+    git clone [https://github.com/vladmaster3455/intrusion-detection-streamlit-app.git](https://github.com/vladmaster3455/intrusion-detection-streamlit-app.git)
     cd intrusion-detection-streamlit-app
     ```
 
